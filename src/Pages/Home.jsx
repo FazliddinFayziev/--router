@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div className='main'>
             <div>
-                <h2>Everything is good</h2>
+                <h2>Home</h2>
                 <Link to={'/login'} className='button'>
                     <button>Login</button>
                 </Link>
